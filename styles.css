@@ -1,0 +1,29 @@
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
+.roboto{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color:rgb(184, 182, 182);
+  font-size: 22px;
+  font-weight:400;
+  font: outline;
+}
+.lavenderBox{
+  border: 2px navajowhite solid;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 20px;
+  color: black;
+  width: 35%;
+  padding-left: 5px;
+  padding-right: 5px;
+  background-color:lavender
+}
+a {
+  color: rgb(27, 142, 243);
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  background-color:slategray;
+}
